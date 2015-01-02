@@ -51,6 +51,6 @@ vegetables are done. You can check each with a knife as it cooks. Once the stew
 has simmered, add the squash and frozen vegetables of choice. Allow the
 stew to simmer for twenty-minutes until done. 
 
-![Beef Stew](https://github.com/KLVTZ/justin-cooks/img/beef-stew.jpg "Beef stew")
+![Beef Stew](https://github.com/KLVTZ/justin-cooks/blob/master/img/beef-stew.jpg "Beef stew")
 
 made with ♥
