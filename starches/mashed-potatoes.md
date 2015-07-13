@@ -11,3 +11,5 @@ Skin, slice potatoes and boil in water. Boil for about 15 minutes or until
 potatoes are fork tender. Literally soft, but not falling apart. Drain potatoes
 and mix butter, salt, pepper, and milk. Use a hand mixture to get desired
 results.
+
+*enjoy*
